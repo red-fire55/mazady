@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.vertical-line {
+    border-left: 1px solid #FFEAD2;
+    height: 30px;
+    margin: 0 10px;
+}
